@@ -1,0 +1,51 @@
+body{
+    background:#F0FFFF;
+    font-family:'Serif';
+}
+.container{ 
+    width: 40%;
+    height: 70%;
+    text-align:center;
+    background:#A9A9A9;
+
+    display: flex;
+    margin-left: 30%;
+    margin-top: 8%;
+} 
+.signup{
+    width: 26%;
+    background: #00CED1;
+    color: white;
+    height: 10%;  
+    font-size: 20px;
+    cursor:pointer;
+    margin-top:  3.5%;
+    margin-left: 8%;
+    text-transform:uppercase;
+}
+
+.login{
+    width:26%;
+    font-size: 20px;
+    margin-top: 30px;
+    background:#00CED1;
+    color: white;
+    height:10%;
+    cursor:pointer;
+    text-transform:uppercase;
+    margin-left:  30%;
+    
+} 
+
+.login-form{
+    background:#fff;
+    box-sizing:border-box;
+    padding:40px;
+    clear:both;
+    width: 90%;
+    height:30px;
+
+}
+
+
+
